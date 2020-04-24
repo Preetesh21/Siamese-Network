@@ -6,6 +6,10 @@ Siamese neural network is an artificial neural network that use the same weights
 
 ![model.png](model_plot.png)
 
+One-shot learning is a classification task where one example (or a very small number of examples) is given for each class, that is used to prepare a model, that in turn must make predictions about many unknown examples in the future.
+
+![one_shot image](one_shot.png)
+
 DATASET--For the purpose of this blog, we will use the Omniglot dataset which is a collection of 1623 hand drawn characters from 50 different alphabets. For every character there are just 20 examples, each drawn by a different person. Each image is a gray scale image of resolution 105x105.
 
 
